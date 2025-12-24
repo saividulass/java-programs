@@ -23,7 +23,7 @@ public class Main{
     }
 }
 -----------------------------------------------------------------------------------------------
-IMPUT STRING AND LOOP THROUGH LETTERS AND WORDS
+INPUT STRING AND LOOP THROUGH LETTERS AND WORDS
 import java.util.*;
 public class Main{
     public static void main(String[] args){
